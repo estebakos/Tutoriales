@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestS</string>
+    <string name="str_user">Usuario:</string>
+    <string name="str_password">Contraseña:</string>
+    <string name="str_login">Login</string>
+    <string name="str_sign_up">Sign Up</string>
+</resources>
